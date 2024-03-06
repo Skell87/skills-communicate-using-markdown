@@ -2,3 +2,6 @@
 ## This is an H2 header! ## 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) [an image of a cat in golden armor]
+``` javascript
+var myVar = "Hello, World!";
+```
