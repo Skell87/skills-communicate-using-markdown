@@ -1,4 +1,4 @@
 # This is an H1 header! #
 ## This is an H2 header! ## 
 
-changed this file to have two headers in two different sizes
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) [an image of a cat in golden armor]
